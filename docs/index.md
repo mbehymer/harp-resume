@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Devin Harp's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Devin W. Harp
+*"A Pretty Cool Kid"* - My Mom
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
@@ -21,10 +21,11 @@ __LDS Business College__, Salt Lake City, UT
 
 - Full academic scholarship with 4.0 GPA
 
-`Expected 2029`
+`Expected 2023`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- Bioinformatics & Data Science
+- 3.6 Major GPA
 
 
 ## Related Experience
@@ -73,14 +74,17 @@ __Pinnacle Management Group__,
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
+`2004 - 2015`
+__Boy Scouts__
+Obtained Eagle Scout ranking and participated in numerous serice projects in my local community.
 
+`2015-2017`
+__Service Missionary__, Czechia & Slovakia
+Learned Czech, Slovak, and some Russian. Taught English and did various humanitarian projects. Served religious needs of the native people.
 
-`2023-2025`
-__Service Missionary__, South Africa
-
-
+`2020 - Present`
+__DCS Flight Instructor__
+Taught rudimentary flight skills to interested people using a military flight sim. Cold start, taxi, take off, and landing methodology taught in various jets such as F-16 and F-18 which utilize public data for sim purposes.
 
 <!-- ### Footer
 
