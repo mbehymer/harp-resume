@@ -3,6 +3,8 @@ layout: cv
 title: Devin Harp's Resume
 ---
 # Devin W. Harp
+
+Bioinformatics & Data Science student at Brigham Young University - Idaho
 *"A Pretty Cool Kid"* - My Mom
 
 <div id="webaddress">
