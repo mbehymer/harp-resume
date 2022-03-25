@@ -6,85 +6,97 @@ title: Devin Harp's Resume
 *"A Pretty Cool Kid"* - My Mom
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
+ <a href="har17107@byui.edu">har17107@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 | <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+| <a href="https://github.com/Devin7Eleven">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`2011 - 2015`
+__Mesa High School__, Mesa, AZ
 
-- Full academic scholarship with 4.0 GPA
+- Scholastic Diploma, 3.3 GPA
+- Participated in AFJROTC, Cross Country, and Student Council activities
 
-`Expected 2023`
+`2019 - Expected 2023`
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - Bioinformatics & Data Science
 - 3.6 Major GPA
+- Bioinformatics projects & Data Science Society
+- Relevant courses taken: MATH221B, MATH325, MATH335, CSE110, CSE111, CSE250
 
+`2021 - Present`
+__Coursera__, Online
+
+- Online course in *Python for Genomic Data Science*
+
+`2022 - Present`
+__Data Camp__, Online
+
+- Reinforcing knowledge on R, Python, and SQL using program offered by the Data Science Society
 
 ## Related Experience
 
-### Internships
+### Data Science & Statistics Projects
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`Fall 2021`
+__Statistic Counsulting Project__, MATH325
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Gathered public data from the Public Safety department at BYU - I from years 2008 to present on reported honor code violations and crimes commited by students and residents in Rexburg.
+- Manipulated and tidied datasets on missing column values and change in crime report classification
 
-### Data Science Lead
+`Winter 2022`
+__Bioinformatics Front End__, Biology Department
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+- Worked on a Bioinformatics project under the direction of Cody Smith to design primers for labratory work using Python and the Biopython package
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+`Winter 2022`
+__F-16 & F-18 Flight Model Analysis__, Personal
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+- Used a full fidelity military flight simulator to compare flight model behavior and performance between the F-16 and F-18 in take off speed, turn radius, max G, and fuel consumption.
+- Personally gathered data and designed experiment
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+### Data Science Society Projects
 
-### Data Science Consulting Team
+`Fall 2021`
+__Alleva__
 
-`January 2027 - April 2027`
-__Imagine Learning__
+- Created a dashboard using test data given by Alleva
+- Learned to test and utilize new startup software and programs
 
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
+`Winter 2022`
+__Maddison Memorial Hospital__
 
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
+- Used Excel to create pivot tables to analyze medical records and return results to medical staff
+- Used knowledge of HIPAA laws to safely secure the personal data of patients when performing analysis
 
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+### Skills
 
+- Experienced in R, Python, and SQL languages
+- Familiar with Excel
+- Proficient in data gathering and creating visualizations
 
 ## Service and Work History
 
 `2004 - 2015`
 __Boy Scouts__
-Obtained Eagle Scout ranking and participated in numerous serice projects in my local community.
+
+- Obtained Eagle Scout ranking and participated in numerous serice projects in my local community.
 
 `2015-2017`
 __Service Missionary__, Czechia & Slovakia
-Learned Czech, Slovak, and some Russian. Taught English and did various humanitarian projects. Served religious needs of the native people.
+
+- Learned Czech, Slovak, and some Russian. Taught English and did various humanitarian projects. Served religious needs of the native people.
 
 `2020 - Present`
 __DCS Flight Instructor__
-Taught rudimentary flight skills to interested people using a military flight sim. Cold start, taxi, take off, and landing methodology taught in various jets such as F-16 and F-18 which utilize public data for sim purposes.
+
+- Taught rudimentary flight skills to interested people using a full fidelity military flight sim. Cold start, taxi, take off, and landing methodology taught in various jets such as F-16 and F-18 which utilize public government data on operational aircraft for sim purposes.
 
 <!-- ### Footer
 
