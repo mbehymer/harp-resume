@@ -5,12 +5,12 @@ title: Devin Harp's Resume
 # Devin W. Harp
 
 Bioinformatics & Data Science student at Brigham Young University - Idaho
-*"A Pretty Cool Kid"* - My Mom
 
 <div id="webaddress">
- <a href="har17107@byui.edu">har17107@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
+Telephone: 602-620-4104</a>
+| <a href="har17107@byui.edu">har17107@byui.edu</a>
+| <a href="https://byuidatascience.github.io/">Data Science Program</a>
+| <a href="https://www.linkedin.com/in/devin7eleven/">LinkedIn</a>
 | <a href="https://github.com/Devin7Eleven">GitHub</a>
 </div>
 
@@ -18,19 +18,14 @@ Bioinformatics & Data Science student at Brigham Young University - Idaho
 
 ## Education
 
-`2011 - 2015`
-__Mesa High School__, Mesa, AZ
-
-- Scholastic Diploma, 3.3 GPA
-- Participated in AFJROTC, Cross Country, and Student Council activities
-
 `2019 - Expected 2023`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- Bioinformatics & Data Science
-- 3.6 Major GPA
-- Bioinformatics projects & Data Science Society
-- Relevant courses taken: MATH221B, MATH325, MATH335, CSE110, CSE111, CSE250
+- Major: Bioinformatics
+- Minor: Data Science
+- Societies: Data Science Society, Neuroscience Society
+- Relevant courses taken: MATH221B, MATH325, MATH335, CIT111, CSE110, CSE111, CSE250, ENG301
+- Additional courses in PHIL110 and PHIL205
 
 `2021 - Present`
 __Coursera__, Online
@@ -46,41 +41,43 @@ __Data Camp__, Online
 
 ### Data Science & Statistics Projects
 
-`Fall 2021`
-__Statistic Counsulting Project__, MATH325
-
-- Gathered public data from the Public Safety department at BYU - I from years 2008 to present on reported honor code violations and crimes commited by students and residents in Rexburg.
-- Manipulated and tidied datasets on missing column values and change in crime report classification
-
 `Winter 2022`
 __Bioinformatics Front End__, Biology Department
 
-- Worked on a Bioinformatics project under the direction of Cody Smith to design primers for labratory work using Python and the Biopython package
+- Designed program using Biopython in Python that analyzes DNA strands and produces primers for labratory use
+- Increased rate at which labratory technicians replicated DNA in PCR experiemnts by roughly 4 hours or more
 
 `Winter 2022`
 __F-16 & F-18 Flight Model Analysis__, Personal
 
-- Used a full fidelity military flight simulator to compare flight model behavior and performance between the F-16 and F-18 in take off speed, turn radius, max G, and fuel consumption.
-- Personally gathered data and designed experiment
-
-### Data Science Society Projects
+- Designed experiment using a military aviation simulator to gather flight performance on F-16 and F-18 jets
+- Tested for bugs within the program and improved data gathering skills using both R and Python
 
 `Fall 2021`
-__Alleva__
+__Statistic Counsulting Project__, MATH325
 
-- Created a dashboard using test data given by Alleva
-- Learned to test and utilize new startup software and programs
+- Gathered public data from the Public Safety department and analyzed data using R language
+- Manipulated and tidied dataset on missing column values and change in crime classification
+- Produced graphs showcasing changes in honor code violation and crime trends throughout 2008 to present
+
+### Data Science Society Projects
 
 `Winter 2022`
 __Maddison Memorial Hospital__
 
-- Used Excel to create pivot tables to analyze medical records and return results to medical staff
-- Used knowledge of HIPAA laws to safely secure the personal data of patients when performing analysis
+- Utilized Excel to create pivot tables to analyze medical records and return results to medical staff
+- Applied knowledge of HIPAA laws to safely secure the personal data of patients when performing analysis
+
+`Fall 2021`
+__Alleva__
+
+- Created a dashboard using test data given by Alleva to test new software the company was utilizing
+- Learned to test and utilize new startup software and programs
 
 ### Skills
 
 - Experienced in R, Python, and SQL languages
-- Familiar with Excel
+- Familiar with Excel and pivot table creation
 - Proficient in data gathering and creating visualizations
 
 ## Service and Work History
