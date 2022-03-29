@@ -24,7 +24,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 - Major: Bioinformatics
 - Minor: Data Science
 - Societies: Data Science Society, Neuroscience Society
-- Relevant courses taken: MATH221B, MATH325, MATH335, CIT111, CSE110, CSE111, CSE250, ENG301
+- Relevant courses taken: MATH221B, MATH325, MATH335, CIT111, CSE110, CSE111, CSE250, ENG301 <!-- I'm not sure that ENG301 is relevant, but maybe I'm just wrong. -->
 - Additional courses in PHIL110 and PHIL205
 
 `2021 - Present`
@@ -72,7 +72,7 @@ __Maddison Memorial Hospital__
 __Alleva__
 
 - Created a dashboard using test data given by Alleva to test new software the company was utilizing
-- Learned to test and utilize new startup software and programs
+- Learned to test and utilize new startup software and programs <!-- What was the software and what were the programs? -->
 
 ### Skills
 
